@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 
 ## Devops
 lets begin
+
+## Rebase 
+trying to learn 
