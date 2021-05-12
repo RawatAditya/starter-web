@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <lets do devops using >
 
 # TECHNOLOGY COLOPHON
 
