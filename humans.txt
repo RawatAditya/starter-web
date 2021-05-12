@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    
+    lets learn devops in thiss world
 
 # THANKS
 
