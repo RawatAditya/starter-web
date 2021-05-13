@@ -1,1 +1,2 @@
-the is file is not tracked yet
+the is file is not tracked ye
+learning git
