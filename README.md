@@ -14,4 +14,7 @@ Sample website with plenty of files for demos
 lets begin
 
 ## Rebase 
-trying to learn 
+trying to learn
+
+##Adding new information
+learning about stash
